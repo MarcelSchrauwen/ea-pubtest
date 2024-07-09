@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.2.2.3:1", "", "Applicatiebeheerder", "EARoot/EA2/EA2/EA2/EA3/EA224.htm", "6.png", "E91801", "0", "", "Actor0","{E7DAF221-C323-4413-B41D-6913F42CFCB9}");
+tocTab[tocTab.length] = new Array("0.2.2.2.3:2", "", "Domeinbeheerder", "EARoot/EA2/EA2/EA2/EA3/EA225.htm", "6.png", "E91802", "0", "", "Actor0","{3E209724-5AB8-466b-81EE-2568A7365371}");
+tocTab[tocTab.length] = new Array("0.2.2.2.3:3", "", "Systeembeheerder", "EARoot/EA2/EA2/EA2/EA3/EA226.htm", "6.png", "E91800", "0", "", "Actor0","{08349BE4-90C0-4a24-AAB7-08150AD007C3}");
+tocTab[tocTab.length] = new Array("0.2.2.2.3:4", "", "Zorgondersteuner", "EARoot/EA2/EA2/EA2/EA3/EA227.htm", "6.png", "E91608", "0", "", "Actor0","{FDF42839-E6D2-4ad5-BAC8-B3F4D2EFA4F0}");
+tocTab[tocTab.length] = new Array("0.2.2.2.3:5", "", "Zorgverlener", "EARoot/EA2/EA2/EA2/EA3/EA228.htm", "6.png", "E91610", "0", "", "Actor0","{5B761B85-E460-471b-BE94-D7C92C8BE8A4}");
+tocTab[tocTab.length] = new Array("0.2.2.2.3:6", "", "Patiënt", "EARoot/EA2/EA2/EA2/EA3/EA229.htm", "6.png", "E91609", "0", "", "Actor0","{43F4655D-AD81-49a5-9AD9-2A2F15D407BD}");

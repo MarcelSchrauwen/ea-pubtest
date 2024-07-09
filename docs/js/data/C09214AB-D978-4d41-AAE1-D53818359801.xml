@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:1", "", "Gegevensmodel", "EARoot/EA2/EA2/EA2/EA5/EA3/EA244.htm", "175.png", "14543", "0", "", "Logical diagram0","{E80B6EBD-9C39-4e52-9CC3-AF1DA69923E6}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:2", "", "Registreren zorgaanbieder domein [KT.UC.101]", "EARoot/EA2/EA2/EA2/EA5/EA3/EA246.htm", "175.png", "14686", "0", "", "Logical diagram0","{D0AF8B15-64D8-46e1-9544-38677E4D5C60}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:3", "", "Autorisatie instantie", "EARoot/EA2/EA2/EA2/EA5/EA3/EA249.htm", "5.png", "E93300", "0", "", "Class0","{60CC40DE-FAF3-4fcc-81C0-5CD8E644C7EC}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:4", "", "Autorisatie instantie", "EARoot/EA2/EA2/EA2/EA5/EA3/EA250.htm", "5.png", "E93303", "0", "", "Class0","{21345C30-84EF-40d3-B7DF-597BDBA9793A}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:5", "", "FHIR opslag", "EARoot/EA2/EA2/EA2/EA5/EA3/EA251.htm", "5.png", "E93304", "0", "", "Class0","{F03532EB-C03A-46a2-A777-C3D9E63D33A1}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:6", "", "FHIR opslag", "EARoot/EA2/EA2/EA2/EA5/EA3/EA252.htm", "5.png", "E93301", "0", "", "Class0","{015E27D1-8CDF-4244-8327-D049D953B8F1}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:7", "", "Zorgaanbieder domein", "EARoot/EA2/EA2/EA2/EA5/EA3/EA255.htm", "5.png", "E93299", "0", "", "Class0","{B8CCF95D-6C6A-423c-A026-9C92F30BAE02}");
+tocTab[tocTab.length] = new Array("0.2.2.2.5.3:8", "", "Zorgaanbieder domein", "EARoot/EA2/EA2/EA2/EA5/EA3/EA256.htm", "5.png", "E93302", "0", "", "Class0","{F4725AEF-613B-4b47-B3DD-C3A35D47A5D4}");

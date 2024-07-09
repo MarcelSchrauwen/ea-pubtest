@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.2.2.9:1", "", "Delen administratieve gegevens [KT.UC.003]", "EARoot/EA2/EA2/EA2/EA9/EA320.htm", "7.png", "E91599", "0", "", "UseCase0","{A185BF9C-0CFF-419e-BCC9-B0DB6EB401E4}");
+tocTab[tocTab.length] = new Array("0.2.2.2.9:2", "", "Delen organisatie gegevens [KT.BUC.003.1]", "EARoot/EA2/EA2/EA2/EA9/EA321.htm", "7.png", "E91616", "E91599", "", "UseCase0","{5B0748E5-AAFC-45fd-AA3B-8794F2EBFA59}");
+tocTab[tocTab.length] = new Array("0.2.2.2.9:3", "", "Delen zorgteam gegevens [KT.BUC.003.2]", "EARoot/EA2/EA2/EA2/EA9/EA322.htm", "7.png", "E91617", "E91599", "", "UseCase0","{53A067B6-9E38-4322-8C0A-77A69AF8F8DA}");
+tocTab[tocTab.length] = new Array("0.2.2.2.9:4", "", "Delen zorgverlener gegevens [KT.BUC.003.3]", "EARoot/EA2/EA2/EA2/EA9/EA323.htm", "7.png", "E91615", "E91599", "", "UseCase0","{194E88B7-5367-48bb-A869-60167BC29024}");
+tocTab[tocTab.length] = new Array("0.2.2.2.9:5", "", "Delen patiënt gegevens [KT.BUC.003.4]", "EARoot/EA2/EA2/EA2/EA9/EA324.htm", "7.png", "E91614", "E91599", "", "UseCase0","{1D9C50B9-7267-480d-AFBA-0A0CE197B2AE}");

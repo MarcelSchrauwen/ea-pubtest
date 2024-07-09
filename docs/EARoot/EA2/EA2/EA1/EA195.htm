@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Beheer & zorg(ondersteuning)</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Beheer & zorg(ondersteuning) </h1>
+			<!-- <img class="header_image" src="../../../../images/VZVZ.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../images/VZVZ.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../EA1.htm">Koppeltaal - 2.0 specificatie</a> / <a href="../../EA140.htm">Ontwerp</a> / <a href="../EA192.htm">Use cases & interacties</a> / <a href="EA197.htm">Overzichtsplaten</a> / <a href="EA195.htm">Beheer & zorg(ondersteuning)</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Architectuur</div>
+						<ul>
+<li><img src="../../../../images/180.png" alt="Diagram"/> <a href="EA195.htm">Beheer & zorg(ondersteuning)</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+    <!-- <div class="ObjectTitle">Beheer & zorg(ondersteuning)</div> -->
+    <div class=diagram_image> 
+<img src="EA196.png" usemap="#EA196" border="0" />
+
+<MAP NAME="EA196">
+<area shape="rect" coords="931,90,976,180" href="../EA2/EA3/EA228.htm" target="_self">
+<area shape="rect" coords="931,238,976,328" href="../EA2/EA3/EA229.htm" target="_self">
+<area shape="rect" coords="434,238,479,328" href="../EA2/EA3/EA227.htm" target="_self">
+<area shape="rect" coords="749,452,854,522" href="../EA2/EA16/EA338.htm" target="_self">
+<area shape="rect" coords="749,372,854,442" href="../EA2/EA15/EA336.htm" target="_self">
+<area shape="rect" coords="749,292,854,362" href="../EA2/EA14/EA334.htm" target="_self">
+<area shape="rect" coords="749,212,854,282" href="../EA2/EA13/EA332.htm" target="_self">
+<area shape="rect" coords="749,132,854,202" href="../EA2/EA12/EA330.htm" target="_self">
+<area shape="rect" coords="749,52,854,122" href="../EA2/EA11/EA328.htm" target="_self">
+<area shape="rect" coords="600,212,705,282" href="../EA2/EA9/EA320.htm" target="_self">
+<area shape="rect" coords="600,132,705,202" href="../EA2/EA10/EA326.htm" target="_self">
+<area shape="rect" coords="600,52,705,122" href="../EA2/EA8/EA1/EA318.htm" target="_self">
+<area shape="rect" coords="52,193,97,283" href="../EA2/EA3/EA225.htm" target="_self">
+<area shape="rect" coords="434,108,479,198" href="../EA2/EA3/EA224.htm" target="_self">
+<area shape="rect" coords="45,10,90,100" href="../EA2/EA3/EA226.htm" target="_self">
+<area shape="rect" coords="196,203,301,273" href="../EA2/EA7/EA1/EA295.htm" target="_self">
+<area shape="rect" coords="196,121,301,191" href="../EA2/EA6/EA1/EA268.htm" target="_self">
+<area shape="rect" coords="196,39,301,109" href="../EA2/EA5/EA1/EA240.htm" target="_self">
+<area shape="rect" coords="153,10,343,296" href="../EA2/EA4/EA232.htm" target="_self">
+<area shape="rect" coords="572,17,901,537" href="../EA2/EA4/EA231.htm" target="_self">
+</MAP>
+ </br></div>
+	
+	<table border="0" class="ObjectDetails">
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Eigenschappen:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Gemaakt:</td>
+			<td class="ObjectDetailsValue">23-8-2023 09:31:49</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Gewijzigd:</td>
+			<td class="ObjectDetailsValue">25-9-2023 14:00:35</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Gemaakt door:</td>
+			<td class="ObjectDetailsValue">Marcel Schrauwen</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Versie:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+	</table>
+<div/>
+
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+
